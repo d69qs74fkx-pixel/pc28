@@ -2,9 +2,9 @@ import telebot
 import requests
 import time
 
-TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
-YU28_API_KEY = os.environ.get("YU28_API_KEY", "")
-CHAT_ID = os.environ.get("CHAT_ID", "")
+TELEGRAM_TOKEN = os.environ.get("8940879483:AAGXIR21CZLHvTKINzWXy1Zj2iOpsrpR6b0", "")
+YU28_API_KEY = os.environ.get("yu28_d15c4d8f4e54d77d", "")
+CHAT_ID = os.environ.get("-1003919784583", "")
 CHECK_INTERVAL = 200 
 # ==========================================
 
